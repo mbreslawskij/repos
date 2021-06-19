@@ -1,0 +1,13 @@
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\bin\Debug\netcoreapp3.1\05 - somardigitos.exe
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\bin\Debug\netcoreapp3.1\05 - somardigitos.deps.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\bin\Debug\netcoreapp3.1\05 - somardigitos.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\bin\Debug\netcoreapp3.1\05 - somardigitos.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\bin\Debug\netcoreapp3.1\05 - somardigitos.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\bin\Debug\netcoreapp3.1\05 - somardigitos.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.genruntimeconfig.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\05 - somardigitos\05 - somardigitos\obj\Debug\netcoreapp3.1\05 - somardigitos.csproj.AssemblyReference.cache

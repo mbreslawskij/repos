@@ -1,0 +1,13 @@
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\bin\Debug\netcoreapp3.1\conversao_temp.exe
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\bin\Debug\netcoreapp3.1\conversao_temp.deps.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\bin\Debug\netcoreapp3.1\conversao_temp.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\bin\Debug\netcoreapp3.1\conversao_temp.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\bin\Debug\netcoreapp3.1\conversao_temp.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\bin\Debug\netcoreapp3.1\conversao_temp.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\conversao_temp\conversao_temp\obj\Debug\netcoreapp3.1\conversao_temp.genruntimeconfig.cache

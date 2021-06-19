@@ -1,0 +1,13 @@
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\bin\Debug\netcoreapp3.1\n.demeses.exe
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\bin\Debug\netcoreapp3.1\n.demeses.deps.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\bin\Debug\netcoreapp3.1\n.demeses.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\bin\Debug\netcoreapp3.1\n.demeses.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\bin\Debug\netcoreapp3.1\n.demeses.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\bin\Debug\netcoreapp3.1\n.demeses.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\n.demeses\n.demeses\obj\Debug\netcoreapp3.1\n.demeses.genruntimeconfig.cache

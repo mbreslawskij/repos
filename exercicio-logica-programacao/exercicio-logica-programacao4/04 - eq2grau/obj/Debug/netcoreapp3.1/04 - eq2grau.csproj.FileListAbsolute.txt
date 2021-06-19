@@ -1,0 +1,13 @@
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\bin\Debug\netcoreapp3.1\04 - eq2grau.exe
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\bin\Debug\netcoreapp3.1\04 - eq2grau.deps.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\bin\Debug\netcoreapp3.1\04 - eq2grau.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\bin\Debug\netcoreapp3.1\04 - eq2grau.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\bin\Debug\netcoreapp3.1\04 - eq2grau.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\bin\Debug\netcoreapp3.1\04 - eq2grau.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\04 - eq2grau\04 - eq2grau\obj\Debug\netcoreapp3.1\04 - eq2grau.genruntimeconfig.cache

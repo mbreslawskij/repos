@@ -1,0 +1,13 @@
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\bin\Debug\netcoreapp3.1\reajuste_salarial.exe
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\bin\Debug\netcoreapp3.1\reajuste_salarial.deps.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\bin\Debug\netcoreapp3.1\reajuste_salarial.runtimeconfig.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\bin\Debug\netcoreapp3.1\reajuste_salarial.runtimeconfig.dev.json
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\bin\Debug\netcoreapp3.1\reajuste_salarial.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\bin\Debug\netcoreapp3.1\reajuste_salarial.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.csproj.AssemblyReference.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.AssemblyInfoInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.AssemblyInfo.cs
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.csproj.CoreCompileInputs.cache
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.dll
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.pdb
+E:\Cursos\Desenv Full Stack\C#\exercicio-logica-programacao\reajuste_salarial\reajuste_salarial\obj\Debug\netcoreapp3.1\reajuste_salarial.genruntimeconfig.cache
